@@ -7,7 +7,6 @@
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
     "axios": "^0.21.0",
-    "gh-pages": "^3.1.0",
     "materialize-css": "^1.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
@@ -20,17 +19,17 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-saga": "^1.1.3",
     "styled-components": "^5.2.1",
+    "surge": "^0.21.7",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "mv build/index.html build/200.html && surge -p build -d merehead-test-task.surge.sh",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://alexeyshalkevych.github.io/merehead-test-task",
   "eslintConfig": {
     "extends": [
       "react-app",
