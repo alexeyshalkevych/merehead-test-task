@@ -3,7 +3,7 @@
 First, clone repo
 
 ```bash
-https://github.com/alexeyshalkevych/develops-today-test-task.git
+https://github.com/alexeyshalkevych/merehead-test-task.git
 ```
 
 Second, run command in your CLI
