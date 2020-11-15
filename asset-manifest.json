@@ -1,0 +1,29 @@
+{
+  "files": {
+    "create-user-page.js": "/merehead-test-task/static/js/create-user-page.4445cc94.chunk.js",
+    "create-user-page.js.map": "/merehead-test-task/static/js/create-user-page.4445cc94.chunk.js.map",
+    "edit-user-page.js": "/merehead-test-task/static/js/edit-user-page.b8db4bac.chunk.js",
+    "edit-user-page.js.map": "/merehead-test-task/static/js/edit-user-page.b8db4bac.chunk.js.map",
+    "home-page.js": "/merehead-test-task/static/js/home-page.be49671d.chunk.js",
+    "home-page.js.map": "/merehead-test-task/static/js/home-page.be49671d.chunk.js.map",
+    "main.css": "/merehead-test-task/static/css/main.48a271d1.chunk.css",
+    "main.js": "/merehead-test-task/static/js/main.4eb45759.chunk.js",
+    "main.js.map": "/merehead-test-task/static/js/main.4eb45759.chunk.js.map",
+    "runtime-main.js": "/merehead-test-task/static/js/runtime-main.4a5a38c9.js",
+    "runtime-main.js.map": "/merehead-test-task/static/js/runtime-main.4a5a38c9.js.map",
+    "static/css/5.5d385725.chunk.css": "/merehead-test-task/static/css/5.5d385725.chunk.css",
+    "static/js/5.f46d23ea.chunk.js": "/merehead-test-task/static/js/5.f46d23ea.chunk.js",
+    "static/js/5.f46d23ea.chunk.js.map": "/merehead-test-task/static/js/5.f46d23ea.chunk.js.map",
+    "index.html": "/merehead-test-task/index.html",
+    "static/css/5.5d385725.chunk.css.map": "/merehead-test-task/static/css/5.5d385725.chunk.css.map",
+    "static/css/main.48a271d1.chunk.css.map": "/merehead-test-task/static/css/main.48a271d1.chunk.css.map",
+    "static/js/5.f46d23ea.chunk.js.LICENSE.txt": "/merehead-test-task/static/js/5.f46d23ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a5a38c9.js",
+    "static/css/5.5d385725.chunk.css",
+    "static/js/5.f46d23ea.chunk.js",
+    "static/css/main.48a271d1.chunk.css",
+    "static/js/main.4eb45759.chunk.js"
+  ]
+}
